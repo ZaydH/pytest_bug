@@ -1,5 +1,5 @@
 import sty
-from sty import fg, bg
+from sty import fg
 
 
 def add(x,y):
